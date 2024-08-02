@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49679301841",
+    "project_id": "motivitylabsfda",
+    "storage_bucket": "motivitylabsfda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49679301841:android:23c101a8fdf1a455d559f0",
+        "android_client_info": {
+          "package_name": "com.motivitylabsfda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49679301841-1o0g87quo8asbccbsfmptik0vg37pvh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motivitylabsfda",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "49679301841-redl3jfneleui9qetg9lp14hs5lh98ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsn-T5J7telX3A_AKPoldrdpRrVF8yCts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49679301841-redl3jfneleui9qetg9lp14hs5lh98ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
